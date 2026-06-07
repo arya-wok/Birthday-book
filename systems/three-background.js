@@ -1,10 +1,10 @@
-a/**
+/**
  * three-background.js
  * Premium Three.js Visual Enhancement Layer
  * ONE persistent ambient canvas behind ALL scenes — consistent background everywhere
  * NON-DESTRUCTIVE — does not interfere with scene-specific particle canvases
  */
-a
+
 ;(function ThreeBackground() {
   'use strict';
 
